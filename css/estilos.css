@@ -3,6 +3,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: #333;
 }
+header {
+    color: deeppink;
+    width: 100%;
+    background-color: rgb(255, 236, 199);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
 #container {
     width: 70%;
     padding: 1em;
