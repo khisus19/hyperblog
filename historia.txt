@@ -5,4 +5,4 @@ viviendo en México
 
 Hoy hablaremos de su vida y obra maestra.
 
-¿Que pasa si tengo un cambio en el staging y saco el ultimo commit con reset soft?
+Probando merge
