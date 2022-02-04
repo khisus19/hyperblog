@@ -12,6 +12,10 @@ header {
     font-weight: bold;
     font-size: 24px;
 }
+header span {
+    color: rebeccapurple;
+    font-size: medium;
+}
 #container {
     width: 70%;
     padding: 1em;
