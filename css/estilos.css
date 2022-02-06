@@ -6,15 +6,16 @@ body {
 header {
     color: deeppink;
     width: 100%;
-    background-color: rgb(255, 236, 199);
+    background-color: rgb(255, 223, 158);
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 24px;
 }
 header span {
     color: rgb(0, 4, 50);
     font-size: small;
+    font-weight: bold;
 }
 #container {
     width: 70%;
