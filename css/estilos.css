@@ -39,13 +39,25 @@ header span {
 h2 {
     color: aqua;
 }
+
+/* Footer */
 footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 70px;
     padding: 15px;
     font-size: 18px;
-    text-align: right;
+    color: rgb(85, 0, 0);
     background-color: rgb(255, 223, 158);
+}
+footer ul{
+    display: flex;
+    list-style: none;
+}
+footer ul li, footer div {
+    margin: 0 10px;
 }
